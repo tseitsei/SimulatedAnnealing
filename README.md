@@ -7,6 +7,7 @@ Decomposing a graph by using simulated annealing.
 This program requires a directory containing graph files as an argument.
 
 For example:
+
     java SimulatedAnnealing C:\Graphs
 
 Example graphs can be downloaded from:
