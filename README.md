@@ -11,7 +11,7 @@ java SimulatedAnnealing C:\Graphs
 
 Example graphs can be downloaded from:
 
-http://www.graphdrawing.org/data/download/rome-graphml.tgz
+http://www.graphdrawing.org/download/rome-graphml.tgz
 
 NOTE!  The graphml files in the file mentioned above have an outdated URL for the DTD.
 
